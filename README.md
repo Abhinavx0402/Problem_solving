@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavx0402/Problem_solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
