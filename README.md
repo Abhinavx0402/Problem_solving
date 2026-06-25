@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhinavx0402/Problem_solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0202-happy-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Abhinavx0402/Problem_solving/tree/master/2119-a-number-after-a-double-reversal) |
 ## Linked List
 |  |
 | ------- |
