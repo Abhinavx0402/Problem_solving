@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinavx0402/Problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinavx0402/Problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
