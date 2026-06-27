@@ -18,7 +18,9 @@ public:
 
         // nums1 elements not in nums2
         for (int x : seen1) {
-            if (seen2.find(x) == seen2.end()) {
+            if (seen2.find(x) == seen2.end()) { //reason for this-❌ seen1[i] is invalid.
+
+// An unordered_set is not stored by index like a vector. It stores elements in hash buckets, so there is no operator[].
                 ans1.push_back(x);
             }
         }
