@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinavx0402/Problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinavx0402/Problem_solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhinavx0402/Problem_solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abhinavx0402/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhinavx0402/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhinavx0402/Problem_solving/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhinavx0402/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -83,4 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
