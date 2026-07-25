@@ -1,29 +1,63 @@
+// class Solution {
+// public:
+//     int longestConsecutive(vector<int>& nums) {
+//         int n=nums.size();
+//         unordered_set<int>st;
+
+
+//         for(int i=0; i<n;i++){
+//             st.insert(nums[i]);
+//         }
+
+//         int longest=0;
+
+//         for(int i=0; i<n;i++){
+
+//             if(st.find(nums[i]-1)==st.end()){
+//                 int curr=nums[i];
+//                 int currleng=1;
+
+//                 while (st.find(curr + 1) != st.end()) {
+//                      curr++;
+//                      currleng++;
+//                 }  
+//                 longest=max(longest,currleng);
+
+//             }
+//         }
+//         return longest;
+
+//     }
+// };
+
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+
         unordered_set<int> st;
-      
-        
-        int longest=0;
 
-        for(int i=0;i <nums.size();i++){
-            st.insert(nums[i]);         
-
+        for (int num : nums) {
+            st.insert(num);
         }
 
-        for(int x : st){
-            if(st.find(x-1)== st.end()){ //iska ye mtlb hua ki for 1 -->0 doesnt exist...
+        int longest = 0;
 
-                int currnum=x;
-                int currleng=1;
+        for (int num : st) {
 
-                while (st.find(currnum + 1) != st.end()) {
-                     currnum++;
-                     currleng++;
-                }  
-                longest=max(longest,currleng); 
+            if (st.find(num - 1) == st.end()) {
+
+                int curr = num;
+                int currleng = 1;
+
+                while (st.find(curr + 1) != st.end()) {
+                    curr++;
+                    currleng++;
+                }
+
+                longest = max(longest, currleng);
             }
         }
+
         return longest;
     }
 };
