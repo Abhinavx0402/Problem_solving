@@ -3,10 +3,13 @@ public:
     int firstUniqChar(string s) {
         unordered_map<char, int> mp;
 
-        for (int i = 0; i < s.size(); i++) {
+        int n = s.size();
+
+        for (int i = 0; i < n; i++) {
             mp[s[i]]++;
-        }
-        for (int i = 0; i < s.size(); i++) {
+        } // map k andr values daal diya
+
+        for (int i = 0; i < n; i++) {
             if (mp[s[i]] == 1) {
                 return i;
             }
