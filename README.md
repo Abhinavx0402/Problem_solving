@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhinavx0402/Problem_solving/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhinavx0402/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinavx0402/Problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Abhinavx0402/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
