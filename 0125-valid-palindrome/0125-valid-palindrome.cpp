@@ -1,24 +1,47 @@
+// class Solution {
+// public:
+//     bool isPalindrome(string s) {
+//         int st = 0;
+//         int end = s.size() - 1;
+
+//         while (st < end) {
+//             if (s[st] != s[end]) {
+//                 return false;
+//             }
+
+//             st++;
+//             end--;
+//         }
+
+//         return true;
+//     }
+// };
+
+
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left = 0;
-        int n = s.size();
-        int right = n - 1;
-        while (left < right) {
+        int st = 0;
+        int end = s.size() - 1;
 
-            while (left < right && !isalnum(s[left])) {
-                left++;
-            }
-            while (left < right && !isalnum(s[right])) {
-                right--;
+        while (st < end) {
+
+            while (st < end && !isalnum(s[st])) {
+                st++;
             }
 
-            if (tolower(s[left]) != tolower(s[right])) {
+            while (st < end && !isalnum(s[end])) {
+                end--;
+            }
+
+            if (tolower(s[st]) != tolower(s[end])) {
                 return false;
             }
-            left++;
-            right--;
+
+            st++;
+            end--;
         }
+
         return true;
     }
 };
