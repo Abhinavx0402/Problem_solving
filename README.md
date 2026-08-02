@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhinavx0402/Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavx0402/Problem_solving/tree/master/0746-min-cost-climbing-stairs) |
+| [0905-sort-array-by-parity](https://github.com/Abhinavx0402/Problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinavx0402/Problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Abhinavx0402/Problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavx0402/Problem_solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhinavx0402/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinavx0402/Problem_solving/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/Abhinavx0402/Problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
