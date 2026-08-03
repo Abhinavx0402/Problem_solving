@@ -10,7 +10,7 @@ public:
             sum += arr[i];
         }
 
-        int ans=sum;
+       // int ans=sum;
 
         for (int i = k; i < n; i++) {
 
@@ -22,7 +22,7 @@ public:
             sum += arr[i];
             sum -= arr[i - k];
 
-            ans=max(ans,sum);
+         //   ans=max(ans,sum);
         }
 
         // Check the last window
