@@ -1,56 +1,49 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-
         sort(nums.begin(), nums.end());
 
-        int n = nums.size();
         vector<vector<int>> ans;
 
-        for (int i = 0; i < n ; i++) {
+        int n = nums.size();
 
-            // Skip duplicate i
-            if (i > 0 && nums[i] == nums[i - 1])
+        for (int i = 0; i < n; i++) {
+
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
+            }
+            for (int j = i + 1; j < n; j++) {
+                int p = j + 1;
+                int q = n - 1;
 
-            for (int j = i + 1; j < n ; j++) {
-
-                // Skip duplicate j
-                if (j > i + 1 && nums[j] == nums[j - 1])
+                if (j > i+1 && nums[j] == nums[j - 1]) {
                     continue;
+                }
 
-                int left = j + 1;
-                int right = n - 1;
+                while (p < q) {
+                    long long sum =
+                        (long long)nums[i] + nums[j] + nums[p] + nums[q];
 
-                while (left < right) {
+                    if (sum == target) {
+                        ans.push_back({nums[i], nums[j], nums[p], nums[q]});
+                        p++;
+                        q--;
 
-                    long long sum = (long long)nums[i] + nums[j] + nums[left] + nums[right];
+                        while (p < q && nums[p] == nums[p - 1]) {
+                            p++;
+                        }
 
-                    if (sum < target) {
-                        left++;
-                    }
-                    else if (sum > target) {
-                        right--;
-                    }
-                    else {
-
-                        ans.push_back({nums[i], nums[j], nums[left], nums[right]});
-
-                        left++;
-                        right--;
-
-                        // Skip duplicate left
-                        while (left < right && nums[left] == nums[left - 1])
-                            left++;
-
-                        // Skip duplicate right
-                        while (left < right && nums[right] == nums[right + 1])
-                            right--;
+                        while (p < q && nums[q] == nums[q + 1]) {
+                            q--;
+                        }
+                    } else if (sum < target) {
+                        p++;
+                    } else {
+                        q--;
                     }
                 }
             }
         }
-
         return ans;
     }
 };
