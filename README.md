@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhinavx0402/Problem_solving/tree/master/2119-a-number-after-a-double-reversal) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhinavx0402/Problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhinavx0402/Problem_solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
