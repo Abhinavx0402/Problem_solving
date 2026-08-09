@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhinavx0402/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinavx0402/Problem_solving/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinavx0402/Problem_solving/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/Abhinavx0402/Problem_solving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinavx0402/Problem_solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavx0402/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinavx0402/Problem_solving/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhinavx0402/Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhinavx0402/Problem_solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavx0402/Problem_solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhinavx0402/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinavx0402/Problem_solving/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavx0402/Problem_solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
