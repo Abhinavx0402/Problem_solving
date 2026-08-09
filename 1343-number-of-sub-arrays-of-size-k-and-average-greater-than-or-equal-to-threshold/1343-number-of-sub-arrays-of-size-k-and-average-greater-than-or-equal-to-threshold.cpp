@@ -10,8 +10,6 @@ public:
             sum += arr[i];
         }
 
-        // int ans=sum;
-
         for (int i = k; i < n; i++) {
 
             if (sum / k >= threshold) {
