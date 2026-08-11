@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinavx0402/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhinavx0402/Problem_solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavx0402/Problem_solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhinavx0402/Problem_solving/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinavx0402/Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinavx0402/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhinavx0402/Problem_solving/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Union-Find
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Abhinavx0402/Problem_solving/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Abhinavx0402/Problem_solving/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavx0402/Problem_solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhinavx0402/Problem_solving/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinavx0402/Problem_solving/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinavx0402/Problem_solving/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhinavx0402/Problem_solving/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Enumeration
 |  |
 | ------- |
