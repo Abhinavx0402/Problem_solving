@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Abhinavx0402/Problem_solving/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/2404-most-frequent-even-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Abhinavx0402/Problem_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhinavx0402/Problem_solving/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinavx0402/Problem_solving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Abhinavx0402/Problem_solving/tree/master/2404-most-frequent-even-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Abhinavx0402/Problem_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
